@@ -1,0 +1,22 @@
+[
+  {
+    "_class": "se.radley.demo.game.Game",
+    "id": "561f42358f9777e0703e22ce",
+    "name": "Rocket League"
+  },
+  {
+    "_class": "se.radley.demo.game.Game",
+    "id": "561f42648f9777e0703e22cf",
+    "name": "GTA 5"
+  },
+  {
+    "_class": "se.radley.demo.game.Game",
+    "id": "561f426c8f9777e0703e22d0",
+    "name": "The Last Of Us"
+  },
+  {
+    "_class": "se.radley.demo.game.Game",
+    "id": "561f42708f9777e0703e22d1",
+    "name": "The Order"
+  }
+]

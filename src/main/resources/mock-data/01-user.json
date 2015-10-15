@@ -1,0 +1,14 @@
+[
+  {
+    "_class": "se.radley.demo.user.User",
+    "id": "leon",
+    "email": "leon@radley.se",
+    "firstName": "Leon",
+    "lastName": "Radley",
+    "games": [
+      "561f42358f9777e0703e22ce",
+      "561f42648f9777e0703e22cf",
+      "561f426c8f9777e0703e22d0"
+    ]
+  }
+]

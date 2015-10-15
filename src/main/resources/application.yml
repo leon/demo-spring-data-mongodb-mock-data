@@ -1,0 +1,7 @@
+# Logging
+logging.level:
+  org.springframework.data.document.mongodb: DEBUG
+  org.springframework.data.auditing: DEBUG
+
+# MongoDB (MongoProperties)
+spring.data.mongodb.uri: mongodb://localhost/demo-mock-data

@@ -1,0 +1,21 @@
+[
+  {
+    "_class": "se.radley.demo.todo.Todo",
+    "id": "561f487750078e78d4005888",
+    "user": "leon",
+    "title": "Save the world"
+  },
+  {
+    "_class": "se.radley.demo.todo.Todo",
+    "id": "561f487e50078e78d4005889",
+    "user": "leon",
+    "title": "Get the girl",
+    "done": true
+  },
+  {
+    "_class": "se.radley.demo.todo.Todo",
+    "id": "561f488d50078e78d400588a",
+    "user": "leon",
+    "title": "Go to the bahamas"
+  }
+]
